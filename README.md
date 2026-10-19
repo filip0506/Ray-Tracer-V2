@@ -1,6 +1,6 @@
 # Ray Tracer V2
 
-Ray Tracer
+Ray Tracer V2
 
 An updated and improved remake of my original C++ ray tracer, developed as part of a university 3D programming assignment in 2019.
 
